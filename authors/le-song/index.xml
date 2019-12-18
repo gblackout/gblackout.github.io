@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Le Song | Yuan Yang</title>
+    <link>/authors/le-song/</link>
+      <atom:link href="/authors/le-song/index.xml" rel="self" type="application/rss+xml" />
+    <description>Le Song</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Le Song</title>
+      <link>/authors/le-song/</link>
+    </image>
+    
+    <item>
+      <title>Learn to Explain Efficiently via Neural Logic Inductive Learning</title>
+      <link>/publication/yang-2019-learn/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/yang-2019-learn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning a Meta-Solver for Syntax-Guided Program Synthesis</title>
+      <link>/publication/si-2018-learning/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/si-2018-learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

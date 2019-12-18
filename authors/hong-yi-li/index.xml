@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hong Yi Li | Yuan Yang</title>
+    <link>/authors/hong-yi-li/</link>
+      <atom:link href="/authors/hong-yi-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hong Yi Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Hong Yi Li</title>
+      <link>/authors/hong-yi-li/</link>
+    </image>
+    
+    <item>
+      <title>A One-stop Method for EMI Analysis Based on Wavelet Packet and SOM</title>
+      <link>/publication/li-2014-one/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/li-2014-one/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

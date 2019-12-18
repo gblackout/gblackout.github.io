@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ye Hu | Yuan Yang</title>
+    <link>/authors/ye-hu/</link>
+      <atom:link href="/authors/ye-hu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ye Hu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Ye Hu</title>
+      <link>/authors/ye-hu/</link>
+    </image>
+    
+    <item>
+      <title>CMU LiveMedQA at TREC 2017 LiveQA: A Consumer Health Question Answering System</title>
+      <link>/publication/yang-2017-cmu/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/yang-2017-cmu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

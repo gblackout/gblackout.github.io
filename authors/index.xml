@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Academic</title>
+    <title>Authors | Yuan Yang</title>
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,12 +13,180 @@
     </image>
     
     <item>
+      <title>Hanjun Dai</title>
+      <link>/authors/hanjun-dai/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/hanjun-dai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Le Song</title>
+      <link>/authors/le-song/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/le-song/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mayur Naik</title>
+      <link>/authors/mayur-naik/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/mayur-naik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xujie Si&lt;sup&gt;&amp;#42;&lt;/sup&gt;</title>
+      <link>/authors/xujie-sisup#42/sup/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/xujie-sisup#42/sup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuan Yang</title>
+      <link>/authors/yuan-yang/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/yuan-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuan Yang&lt;sup&gt;&amp;#42;&lt;/sup&gt;</title>
+      <link>/authors/yuan-yangsup#42/sup/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/yuan-yangsup#42/sup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carol Cheng</title>
+      <link>/authors/carol-cheng/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/carol-cheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christy Li</title>
+      <link>/authors/christy-li/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/christy-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eric Nyberg</title>
+      <link>/authors/eric-nyberg/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/eric-nyberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eric Xing</title>
+      <link>/authors/eric-xing/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/eric-xing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hongbao Zhang</title>
+      <link>/authors/hongbao-zhang/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/hongbao-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jingcheng Yu</title>
+      <link>/authors/jingcheng-yu/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/jingcheng-yu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pengtao Xie</title>
+      <link>/authors/pengtao-xie/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/pengtao-xie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiaoyao Xu</title>
+      <link>/authors/xiaoyao-xu/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/xiaoyao-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xin Gao</title>
+      <link>/authors/xin-gao/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/xin-gao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Y. Yang</title>
+      <link>/authors/y.-yang/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/y.-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ye Hu</title>
+      <link>/authors/ye-hu/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/ye-hu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jianfei Chen</title>
+      <link>/authors/jianfei-chen/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/jianfei-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jun Zhu</title>
+      <link>/authors/jun-zhu/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/jun-zhu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Di Zhao</title>
+      <link>/authors/di-zhao/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/di-zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hong Yi Li</title>
+      <link>/authors/hong-yi-li/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/hong-yi-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
       <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+      <description>&lt;p&gt;I&#39;m a Machine Learning PhD at Gerogia Tech supervised by Prof. &lt;a href=&#34;https://www.cc.gatech.edu/~lsong/&#34;&gt;Le Song&lt;/a&gt;. I received my MS in Computational Data Science from CMU in 2017 and BEng in Software Engineering from Beihang Univ. in 2016.&lt;/p&gt;
+&lt;p&gt;My research interests include knowledge graph creation, reasoning and incorporating symoblic methods into machine learning for better model interpretability and data-efficiency.&lt;/p&gt;
 </description>
     </item>
     

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hanjun Dai | Yuan Yang</title>
+    <link>/authors/hanjun-dai/</link>
+      <atom:link href="/authors/hanjun-dai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hanjun Dai</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Hanjun Dai</title>
+      <link>/authors/hanjun-dai/</link>
+    </image>
+    
+    <item>
+      <title>Learning a Meta-Solver for Syntax-Guided Program Synthesis</title>
+      <link>/publication/si-2018-learning/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/si-2018-learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuan Yang</title>
+    <link>/authors/yuan-yang/</link>
+      <atom:link href="/authors/yuan-yang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuan Yang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Yuan Yang</title>
+      <link>/authors/yuan-yang/</link>
+    </image>
+    
+    <item>
+      <title>Learn to Explain Efficiently via Neural Logic Inductive Learning</title>
+      <link>/publication/yang-2019-learn/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/yang-2019-learn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CMU LiveMedQA at TREC 2017 LiveQA: A Consumer Health Question Answering System</title>
+      <link>/publication/yang-2017-cmu/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/yang-2017-cmu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Discharge Medications At Admission Time Based On Deep Learning</title>
+      <link>/publication/yang-2017-predicting/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/yang-2017-predicting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributing the stochastic gradient sampler for large-scale lda</title>
+      <link>/publication/yang-2016-distributing/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/yang-2016-distributing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A One-stop Method for EMI Analysis Based on Wavelet Packet and SOM</title>
+      <link>/publication/li-2014-one/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/li-2014-one/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
