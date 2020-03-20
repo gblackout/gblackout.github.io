@@ -186,7 +186,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I&#39;m a Machine Learning PhD at Gerogia Tech supervised by Prof. &lt;a href=&#34;https://www.cc.gatech.edu/~lsong/&#34;&gt;Le Song&lt;/a&gt;. I received my MS in Computational Data Science from CMU in 2017 and BEng in Software Engineering from Beihang Univ. in 2016.&lt;/p&gt;
-&lt;p&gt;My research interests include knowledge graph creation, reasoning and incorporating symoblic methods into machine learning for better model interpretability and data-efficiency.&lt;/p&gt;
+&lt;p&gt;I&#39;m interested in interpretable machine learning models and learning methods that can reduce human-supervision. Typical topics and techniques involved in my research are: learning-by-asking, efficient inference on knowledge graph, logic programming and commonsense reasoning.
+#My research interests include knowledge graph creation, reasoning and incorporating symoblic methods into machine learning for better model interpretability and data-efficiency.&lt;/p&gt;
 </description>
     </item>
     
