@@ -190,5 +190,59 @@
 </description>
     </item>
     
+    <item>
+      <title></title>
+      <link>/authors/prj1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/prj1/</guid>
+      <description>&lt;p&gt;Temporal data such as video and driving logs are widely studied in tasks such as video
+understanding and autonomous driving.&lt;/p&gt;
+&lt;p&gt;We are developing a reasoning framework that detects inductive patterns in temporal data via neural-logic
+methodology. The framework aims to assist the training of modern ML models by inducing patterns for accurate grounding
+with fewer data. For example:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Summarizing recipes from cooking instruction videos for caption generation.&lt;/li&gt;
+&lt;li&gt;Detecting and summarizing human driver&#39;s behavior from the driving logs for imitation learning of an autonomous driving agent.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/prj2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/prj2/</guid>
+      <description>&lt;p&gt;Modern ML models can achieve amazing performance in many tasks. However, they require a large amount of labeled data
+to train and their outputs are not self-explanatory for human users.&lt;/p&gt;
+&lt;p&gt;We study this problem for graph reasoning models. We propose a learning-by-asking
+framework, namely LogicQA, that trains the model by interactively asking questions to an oracle. Under the hood,
+verified questions are used to label the data automatically, leading to order of magnitude better data efficiency.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/prj3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/prj3/</guid>
+      <description>&lt;p&gt;Deductive and inductive reasoning are the critical tasks for many knowledge graphs applications. The former learns
+to infer new facts using the existing knowledge; the latter summarizes (or induces) the knowledge using the
+existing facts. We studied and proposed GNN- and logic-based models to address these issues respectively.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/prj4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/prj4/</guid>
+      <description>&lt;p&gt;Deep vision models are successfully employed in many applications, but they are vulnerable to adversarial
+examples. Existing defense methods are either limited to specific attacks types or are too complex for practical models.&lt;/p&gt;
+&lt;p&gt;To this end, we propose &lt;em&gt;logic adversarial defense&lt;/em&gt;, a framework that utilizes the scene graph of the image to detect
+object labels that are out-of-place in the context. Our framework is model-agnostic and effective against localized
+attacks such as &lt;em&gt;adversarial patch&lt;/em&gt;. Moreover, it produces human-readable explanations as to why the system is attacked.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

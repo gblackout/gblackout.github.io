@@ -58,12 +58,12 @@
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/authors/yuan-yang/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/yuan-yang/</loc>
+    <loc>/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -179,6 +179,22 @@
   
   <url>
     <loc>/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/prj1/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/prj2/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/prj3/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/prj4/</loc>
   </url>
   
   <url>
