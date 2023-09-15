@@ -186,7 +186,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I&#39;m a 5th year Machine Learning PhD at Georgia Tech supervised by Prof. &lt;a href=&#34;https://fekri.ece.gatech.edu/&#34;&gt;Faramarz Fekri&lt;/a&gt; (Previously by &lt;a href=&#34;https://scholar.google.com/citations?user=Xl4E0CsAAAAJ&amp;amp;hl=en&#34;&gt;Le Song&lt;/a&gt;). I received my MS in Computational Data Science from CMU in 2017 and BEng in Software Engineering from Beihang Univ. in 2016.&lt;/p&gt;
-&lt;p&gt;I&#39;m interested in developing data-labeling tools and interpretable ML models for graph, vision, and QA applications. Typical topics involved in my research are: graph and logic reasoning, data programming, QA, computer vision, and autonomous driving.&lt;/p&gt;
+&lt;p&gt;My research focuses on developing controllable, interpretable, and data-efficient ML models via logic reasoning.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I study fundamental problems of performing inductive and deductive logic reasoning on knowledge graphs and have proposed several differentiable graph reasoning models.&lt;/li&gt;
+&lt;li&gt;I work on several frameworks that utilize logic reasoning for automatic data labeling and adversarial defense for vision models.&lt;/li&gt;
+&lt;li&gt;My recent research focuses on incorporating logic reasoning into large language models for controllable and grounded text generation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Research topics&lt;/strong&gt;: knowledge graph, logic reasoning, NLP, and large language models&lt;/p&gt;
 </description>
     </item>
     
@@ -197,7 +203,7 @@
       <guid>/authors/prj1/</guid>
       <description>&lt;p&gt;Temporal data such as video and driving logs are widely studied in tasks such as video
 understanding and autonomous driving.&lt;/p&gt;
-&lt;p&gt;We are developing a reasoning framework that detects inductive patterns in temporal data via neural-logic
+&lt;p&gt;We develop a reasoning framework that detects inductive patterns in temporal data via neural-logic
 methodology. The framework aims to assist the training of modern ML models by inducing patterns for accurate grounding
 with fewer data. For example:&lt;/p&gt;
 &lt;ul&gt;
@@ -241,6 +247,20 @@ examples. Existing defense methods are either limited to specific attacks types 
 &lt;p&gt;To this end, we propose &lt;em&gt;logic adversarial defense&lt;/em&gt;, a framework that utilizes the scene graph of the image to detect
 object labels that are out-of-place in the context. Our framework is model-agnostic and effective against localized
 attacks such as &lt;em&gt;adversarial patch&lt;/em&gt;. Moreover, it produces human-readable explanations as to why the system is attacked.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/prj5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/prj5/</guid>
+      <description>&lt;p&gt;One of the major bottlenecks for logic-based NLP systems is the lack of a reliable translation model that
+maps natural language (NL) to the corresponding first-order logic (FOL) representation.&lt;/p&gt;
+&lt;p&gt;We approach this longstanding challenge by harnessing the power of LLMs. We create a high-quality
+sentence-level NL-FOL pair dataset (MALLS) from GPT-4. We then propose an SFT+RLHF framework that finetunes
+LLaMA models for NL-FOL translation task. The resulting model, namely LogicLLaMA, achieves GPT-4 level performance.&lt;/p&gt;
+&lt;p&gt;[&lt;a href=&#34;https://arxiv.org/abs/2305.15541&#34;&gt;Paper&lt;/a&gt;] [&lt;a href=&#34;https://github.com/gblackout/LogicLLaMA&#34;&gt;Github&lt;/a&gt;] [&lt;a href=&#34;https://huggingface.co/datasets/yuan-yang/MALLS-v0&#34;&gt;Dataset&lt;/a&gt;] [&lt;a href=&#34;https://huggingface.co/yuan-yang&#34;&gt;Weights&lt;/a&gt;]&lt;/p&gt;
 </description>
     </item>
     

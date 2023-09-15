@@ -302,7 +302,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#publications" data-target="#publications"><span>Publications</span></a>
+          <a class="nav-link " href="/#publications" data-target="#publications"><span>Selected Publications</span></a>
         </li>
 
         
@@ -503,7 +503,13 @@
     <h1>About Me</h1>
 
     <p>I'm a 5th year Machine Learning PhD at Georgia Tech supervised by Prof. <a href="https://fekri.ece.gatech.edu/">Faramarz Fekri</a> (Previously by <a href="https://scholar.google.com/citations?user=Xl4E0CsAAAAJ&amp;hl=en">Le Song</a>). I received my MS in Computational Data Science from CMU in 2017 and BEng in Software Engineering from Beihang Univ. in 2016.</p>
-<p>I'm interested in developing data-labeling tools and interpretable ML models for graph, vision, and QA applications. Typical topics involved in my research are: graph and logic reasoning, data programming, QA, computer vision, and autonomous driving.</p>
+<p>My research focuses on developing controllable, interpretable, and data-efficient ML models via logic reasoning.</p>
+<ul>
+<li>I study fundamental problems of performing inductive and deductive logic reasoning on knowledge graphs and have proposed several differentiable graph reasoning models.</li>
+<li>I work on several frameworks that utilize logic reasoning for automatic data labeling and adversarial defense for vision models.</li>
+<li>My recent research focuses on incorporating logic reasoning into large language models for controllable and grounded text generation.</li>
+</ul>
+<p><strong>Research topics</strong>: knowledge graph, logic reasoning, NLP, and large language models</p>
 
 
     <div class="row">
@@ -583,7 +589,7 @@
   
   
 
-  <section id="projects" class="home-section wg-yyprj-wide   " style="padding: 20px 0 0 0;" >
+  <section id="prj5" class="home-section wg-yyprj-wide   " style="padding: 0px 0 0px 0;" >
     <div class="container">
       
 
@@ -603,6 +609,111 @@
 <div class="row">
   <div class="col-12 col-lg-8 section-heading">
       <h1>Recent Projects</h1>
+  </div>
+</div>
+
+
+<div class="row">
+  <div class="col-12 col-lg-6">
+    <div id="profile">
+
+      
+      
+      <img class="prjfig-wide" src="/authors/prj5/avatar_hu669bad67e79995ff8bbbab85edca87a6_74970_2500x2500_fit_lanczos_2.png" alt="Avatar">
+      
+
+      <div class="portrait-title">
+        <h2></h2>
+        
+
+        
+      </div>
+
+      <ul class="network-icon" aria-hidden="true">
+        
+      </ul>
+
+    </div>
+  </div>
+  <div class="col-12 col-lg-6">
+
+    
+    <h3>LLM for Natural Language to First-Order Logic Translation</h3>
+
+    <p>One of the major bottlenecks for logic-based NLP systems is the lack of a reliable translation model that
+maps natural language (NL) to the corresponding first-order logic (FOL) representation.</p>
+<p>We approach this longstanding challenge by harnessing the power of LLMs. We create a high-quality
+sentence-level NL-FOL pair dataset (MALLS) from GPT-4. We then propose an SFT+RLHF framework that finetunes
+LLaMA models for NL-FOL translation task. The resulting model, namely LogicLLaMA, achieves GPT-4 level performance.</p>
+<p>[<a href="https://arxiv.org/abs/2305.15541">Paper</a>] [<a href="https://github.com/gblackout/LogicLLaMA">Github</a>] [<a href="https://huggingface.co/datasets/yuan-yang/MALLS-v0">Dataset</a>] [<a href="https://huggingface.co/yuan-yang">Weights</a>]</p>
+
+
+    <div class="row">
+
+      
+
+      
+
+    </div>
+  </div>
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+    
+    
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="projects" class="home-section wg-yyprj-wide   " style="padding: 20px 0 0 0;" >
+    <div class="container">
+      
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<div class="row">
+  <div class="col-12 col-lg-8 section-heading">
+      
   </div>
 </div>
 
@@ -636,7 +747,7 @@
 
     <p>Temporal data such as video and driving logs are widely studied in tasks such as video
 understanding and autonomous driving.</p>
-<p>We are developing a reasoning framework that detects inductive patterns in temporal data via neural-logic
+<p>We develop a reasoning framework that detects inductive patterns in temporal data via neural-logic
 methodology. The framework aims to assist the training of modern ML models by inducing patterns for accurate grounding
 with fewer data. For example:</p>
 <ul>
@@ -1006,18 +1117,18 @@ existing facts. We studied and proposed GNN- and logic-based models to address t
 <div class="row">
   
     <div class="col-12 col-lg-4 section-heading">
-      <h1>Publications</h1>
+      <h1>Selected Publications</h1>
       <p><sup>*</sup> equal contribution</p>
     </div>
     <div class="col-12 col-lg-8">
-      <p>Y. Yang, A. Payani, F. Fekri, and J. Clayton. LogicQA: A Data-Efficient Training Approach to Graph Reasoning by Asking Inductive Logic Questions. <em>Under review, Thirty-Ninth International Conference on Machine Learning</em> (ICML 2022).</p>
-<p>Y. Yang, J. Clayton, and F. Fekri. LogicDef: An Interpretable Defense Framework Against Adversarial Examples via Inductive Scene Graph Reasoning. <em>Thirty-Sixth AAAI Conference on Artificial Intelligence</em> (AAAI 2022) (<a href="https://drive.google.com/file/d/1rk91vRlcYvEBelPWII6hFYYEmIGyqhSu/view?usp=sharing">Preprint</a>), <strong>oral presentation</strong>.</p>
+      <p>Y. Yang, S. Xiong, A. Payani, E. Shareghi and F. Fekri. <a href="https://arxiv.org/abs/2305.15541">Harnessing the Power of Large Language Models for Natural Language to First-Order Logic Translation</a>. <em>arXiv preprint, 2023</em>.</p>
+<p>Y. Yang, S. Xiong, F. Fekri, J. C. Kerce, and A. Payani. <a href="https://openreview.net/forum?id=2b2s9vd7wYv">LogicDP: Creating Labels for Graph Data via Inductive Logic Programming</a>, <em>11th International Conference on Learning Representations</em> (ICLR 2023).</p>
+<p>Y. Yang, J. Clayton, and F. Fekri. <a href="https://ojs.aaai.org/index.php/AAAI/article/view/20865">LogicDef: An Interpretable Defense Framework Against Adversarial Examples via Inductive Scene Graph Reasoning</a>. <em>Thirty-Sixth AAAI Conference on Artificial Intelligence</em> (AAAI 2022), <strong>oral presentation</strong>.</p>
 <p>Y. Yang, and S. T. Piantadosi. <a href="https://www.pnas.org/content/119/5/e2021865119.short">One model for the learning of language</a>. <em>Proceedings of the National Academy of Sciences Feb 2022, 119 (5)</em> (PNAS).</p>
-<p>Y. Yang, H. Wei, B. Sisman, C. Faloutsos, L. Dong. OmniLink: Multi-Source Entity Linkage with Logic Rules. <em>arXiv preprint, 2021</em>.</p>
 <p>Y. Yang, and L. Song. <a href="https://openreview.net/forum?id=SJlh8CEYDB">Learn to Explain Efficiently via Neural Logic Inductive Learning</a>, <em>8th International Conference on Learning Representations</em> (ICLR 2020).</p>
 <p>Y. Zhang<sup>*</sup>, X. Chen<sup>*</sup>, Y. Yang<sup>*</sup>, A. Ramamurthy, B. Li, Y. Qi, and L. Song. <a href="https://openreview.net/forum?id=rJg76kStwH">Efficient Probabilistic Logic Reasoning with Graph Neural Networks</a>. <em>8th International Conference on Learning Representations</em> (ICLR 2020).</p>
 <p>X. Si<sup>*</sup>, Y. Yang<sup>*</sup>, H. Dai, M. Naik, and L. Song. <a href="https://openreview.net/forum?id=Syl8Sn0cK7">Learning a Meta-Solver for Syntax-Guided Program Synthesis</a>. <em>7th International Conference on Learning Representations</em> (ICLR 2019).</p>
-<p>Y. Yang, P. Xie, X. Gao, C. Cheng, C. Li, H. Zhang and E. Xing. <a href="https://arxiv.org/abs/1711.01386">Predicting Discharge Medications at Admission Time Based on Deep Learning</a>. <em>arXiv preprint arXiv:1711.01386, 2017</em>.</p>
+<p>Y. Yang, P. Xie, X. Gao, C. Cheng, C. Li, H. Zhang and E. Xing. <a href="https://arxiv.org/abs/1711.01386">Predicting Discharge Medications at Admission Time Based on Deep Learning</a>. <em>arXiv preprint, 2017</em>.</p>
 <p>Y. Yang, J. Yu, Y. Hu, X. Xu and E. Nyberg. <a href="https://arxiv.org/abs/1711.05789">A Consumer Health Question Answering System</a>. <em>Text Retrieval Conference 2017 LiveQA Medical Track</em> (TREC 2017).</p>
 <p>Y. Yang, J. Chen and J. Zhu. <a href="https://www.kdd.org/kdd2016/papers/files/rpp0277-yangA.pdf">Distributing the Stochastic Gradient Sampler for Large-Scale LDA</a>. <em>22nd Conference on Knowledge Discovery and Data Mining</em> (KDD 2016).</p>
 
