@@ -185,14 +185,13 @@
       <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;I&#39;m a 5th year Machine Learning PhD at Georgia Tech supervised by Prof. &lt;a href=&#34;https://fekri.ece.gatech.edu/&#34;&gt;Faramarz Fekri&lt;/a&gt; (Previously by &lt;a href=&#34;https://scholar.google.com/citations?user=Xl4E0CsAAAAJ&amp;amp;hl=en&#34;&gt;Le Song&lt;/a&gt;). I received my MS in Computational Data Science from CMU in 2017 and BEng in Software Engineering from Beihang Univ. in 2016.&lt;/p&gt;
-&lt;p&gt;My research focuses on developing controllable, interpretable, and data-efficient ML models via logic reasoning.&lt;/p&gt;
+      <description>&lt;p&gt;I&#39;m a research scientist at ByteDance. Previously, I was a Machine Learning PhD at Georgia Tech supervised by Prof.&lt;a href=&#34;https://fekri.ece.gatech.edu/&#34;&gt;Faramarz Fekri&lt;/a&gt; and Prof.&lt;a href=&#34;https://scholar.google.com/citations?user=Xl4E0CsAAAAJ&amp;amp;hl=en&#34;&gt;Le Song&lt;/a&gt;. I received my MS in Computational Data Science from CMU in 2017 and BEng in Software Engineering from Beihang Univ. in 2016.&lt;/p&gt;
+&lt;p&gt;My research focuses on LLM, logic reasoning, and interpretable and data-efficient ML models:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;I study fundamental problems of performing inductive and deductive logic reasoning on knowledge graphs and have proposed several differentiable graph reasoning models.&lt;/li&gt;
-&lt;li&gt;I work on several frameworks that utilize logic reasoning for automatic data labeling and adversarial defense for vision models.&lt;/li&gt;
-&lt;li&gt;My recent research focuses on incorporating logic reasoning into large language models for controllable and grounded text generation.&lt;/li&gt;
+&lt;li&gt;I&#39;m interested in building new LLM architecture that manages life-long context and works like an intelligent OS&lt;/li&gt;
+&lt;li&gt;I also work on LLM-based data synthesis and enhancing the LLMs with better reasoning and tool-using capabilities&lt;/li&gt;
+&lt;li&gt;My previous study involves inductive and deductive logic reasoning on knowledge graphs and frameworks that use them for data labeling and adversarial defense.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Research topics&lt;/strong&gt;: knowledge graph, logic reasoning, NLP, and large language models&lt;/p&gt;
 </description>
     </item>
     
@@ -261,6 +260,47 @@ maps natural language (NL) to the corresponding first-order logic (FOL) represen
 sentence-level NL-FOL pair dataset (MALLS) from GPT-4. We then propose an SFT+RLHF framework that finetunes
 LLaMA models for NL-FOL translation task. The resulting model, namely LogicLLaMA, achieves GPT-4 level performance.&lt;/p&gt;
 &lt;p&gt;[&lt;a href=&#34;https://arxiv.org/abs/2305.15541&#34;&gt;Paper&lt;/a&gt;] [&lt;a href=&#34;https://github.com/gblackout/LogicLLaMA&#34;&gt;Github&lt;/a&gt;] [&lt;a href=&#34;https://huggingface.co/datasets/yuan-yang/MALLS-v0&#34;&gt;Dataset&lt;/a&gt;] [&lt;a href=&#34;https://huggingface.co/yuan-yang&#34;&gt;Weights&lt;/a&gt;]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/prj6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/prj6/</guid>
+      <description>&lt;p&gt;Many works show LLMs are good at reasoning, but is it true?
+Can the LLMs reason complex and ambiguous programs using program?
+It turns out the answer is no.&lt;/p&gt;
+&lt;p&gt;We introduce the &lt;em&gt;reasoning in the wild&lt;/em&gt; task, where an LLM is tasked
+to solve a reasoning problem of unknown type
+by identifying the sub-problems and their corresponding formalisms,  and writing a program
+to solve each sub-problem, guided by a &lt;em&gt;tactic&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;[&lt;a href=&#34;https://arxiv.org/abs/2406.13764&#34;&gt;Paper&lt;/a&gt;] [&lt;a href=&#34;https://github.com/gblackout/Reason-in-the-Wild&#34;&gt;Github&lt;/a&gt;] [&lt;a href=&#34;https://huggingface.co/datasets/yuan-yang/ReWild&#34;&gt;Data&lt;/a&gt;] [&lt;a href=&#34;https://huggingface.co/yuan-yang&#34;&gt;Model&lt;/a&gt;]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/prj7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/prj7/</guid>
+      <description>&lt;p&gt;LLMs nowadays can process multimodal data, long documents, use tools, and browse web.
+Can we integrate all these and make a language model OS? Where, the LLM acts as a CPU that processes data stored in a context window (RAM).&lt;/p&gt;
+&lt;p&gt;We argue the the key challenge towards LM OS is managing the life-long context and ensuring statefulness across sessions.
+To address this, we introduce compressor-retriever, a model-agnostic architecture designed for life-long context management.
+Our approach exclusively uses the base model&#39;s forward function to compress and retrieve context, ensuring end-to-end differentiability.
+Preliminary experiments demonstrate the effectiveness of this architecture in in-context learning tasks, marking a step towards the development of a fully stateful LLM OS.&lt;/p&gt;
+&lt;p&gt;[&lt;a href=&#34;https://github.com/gblackout/LM-OS&#34;&gt;Github&lt;/a&gt;]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/prj8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/prj8/</guid>
+      <description>&lt;p&gt;Casually working on LLM-based cyber waifu/husbando ;)&lt;/p&gt;
+&lt;p&gt;[&lt;a href=&#34;https://github.com/gblackout/prj-cw&#34;&gt;Github&lt;/a&gt;]&lt;/p&gt;
 </description>
     </item>
     
