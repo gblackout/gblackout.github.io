@@ -290,7 +290,7 @@ Can we integrate all these and make a language model OS? Where, the LLM acts as 
 To address this, we introduce compressor-retriever, a model-agnostic architecture designed for life-long context management.
 Our approach exclusively uses the base model&#39;s forward function to compress and retrieve context, ensuring end-to-end differentiability.
 Preliminary experiments demonstrate the effectiveness of this architecture in in-context learning tasks, marking a step towards the development of a fully stateful LLM OS.&lt;/p&gt;
-&lt;p&gt;[&lt;a href=&#34;https://github.com/gblackout/LM-OS&#34;&gt;Github&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;[&lt;a href=&#34;https://arxiv.org/abs/2409.01495&#34;&gt;Paper&lt;/a&gt;] [&lt;a href=&#34;https://github.com/gblackout/LM-OS&#34;&gt;Github&lt;/a&gt;]&lt;/p&gt;
 </description>
     </item>
     
